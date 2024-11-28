@@ -46,5 +46,6 @@ const user ={
  
 const add = (num1,num2) => ({username:"jaisai"})
 console.log(add(2,3));
+// object should be in {}
 
 
