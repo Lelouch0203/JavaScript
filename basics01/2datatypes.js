@@ -16,6 +16,6 @@ let state;
 // undefined => 
 // symbol => unique
 
-console.log(typeof name);//undefined 
+console.log(typeof name);//undefined
 console.log(typeof null);//object
 

@@ -1,0 +1,39 @@
+/* General body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #282c34; /* Dark background for contrast */
+    color: #ffffff; /* White text for readability */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Center container styling */
+.center {
+    text-align: center;
+    background-color: #3a3f4b; /* Slightly lighter dark shade */
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); /* Subtle shadow for depth */
+}
+
+/* Banner styling */
+#banner {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #61dafb; /* Light blue for emphasis */
+}
+
+/* Clock styling */
+#clock {
+    font-size: 48px;
+    font-weight: bold;
+    color: #61dafb; /* Light blue to match the banner */
+    background-color: #4a5060; /* Darker background for the clock */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5); /* Inner shadow for depth */
+}
